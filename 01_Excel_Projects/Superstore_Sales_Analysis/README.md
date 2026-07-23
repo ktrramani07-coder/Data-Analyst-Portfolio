@@ -1,4 +1,5 @@
 # Superstore Sales Analysis Dashboard
+<img width="671" height="501" alt="Screenshot 2026-07-23 211217" src="https://github.com/user-attachments/assets/1b64367b-a8fa-4fd6-9508-d442d880de32" />
 
 ## Project Overview
 
